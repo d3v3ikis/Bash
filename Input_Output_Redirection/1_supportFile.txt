@@ -1,0 +1,2 @@
+This line is sent to 1_supportFile.txt
+somethin: command not found
